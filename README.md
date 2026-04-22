@@ -47,7 +47,7 @@ Full analysis saved to PROSPECT-ANALYSIS.md
 ### One-Command Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/zubair-trabzada/ai-sales-team-claude/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/moynihan18/ai-sales-team-claude/main/install.sh | bash
 ```
 
 ### Manual Install
